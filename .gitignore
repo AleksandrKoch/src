@@ -1,9 +1,9 @@
-cfehome/settings/local.py
 .py[cod]
 
 .DS_Store
 bin/
 include/
+cfehome/settings/local.py
 pip-selfcheck.json
 
 # Byte-compiled / optimized / DLL files
