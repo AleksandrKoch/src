@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 SECRET_KEY = 'rbo#8bf6p*_8-n&$xuf!xp#%-1+u)2tj%@-$b!h^e17usr0_3b'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['kochblog.herokuapp.com', '.kochblog.com']
 
